@@ -109,7 +109,7 @@ $	sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
 	
 	如果成功会显示build successful，如下图：
 
-	<img src="http://wx4.sinaimg.cn/mw690/d6c2dee9ly1fbzn6nqp9xj21kw0za7c6.jpg" width="500" alt="configure"/> 
+	<img src="http://wx3.sinaimg.cn/mw690/d6c2dee9ly1fbznuh77qaj215t0qc7hm.jpg" width="500" alt="configure"/> 
 <br />
 * 运行例子
 
